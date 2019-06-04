@@ -1,4 +1,4 @@
-# kaggle-mushroom-classification
+# Kaggle Mushroom Classification
 Safe to eat ou deadly poison? Machine learning fit to identify mushrooms classification by edible or poison
 
 ## Structure
